@@ -14,6 +14,17 @@ const luckTheme = createTheme({
             light:"#ccff33",
             dark:green[900]
         },    
+    },
+    components:{
+        MuiButton:{
+            styleOverrides:{
+                root:{
+                    "&:focus": {
+                        outline: "none",
+                    },
+                }
+            }
+        }
     }
 })
 

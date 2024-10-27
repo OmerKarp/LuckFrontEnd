@@ -1,12 +1,10 @@
 import { Button, Typography } from "@mui/material";
-import React from "react";
 
 const ConnectWallet = () => {
   return (
     <Button
       variant="contained"
       size="small"
-      className="myButton"
       sx={{
         color: "white",
         m: 3,
