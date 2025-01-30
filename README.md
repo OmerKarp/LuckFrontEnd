@@ -2,6 +2,7 @@ A front end to the LUCK token ecosystem.
 What you can do on the website:
 1) Stake LUCK tokens in the LuckBank from the "stake" page.
 2) Play the lottery game in the "play" page.
+3) Look at how LUCK and the website works at the "documents" page.
 
 Also there is an "about" page and "contact" page
 
